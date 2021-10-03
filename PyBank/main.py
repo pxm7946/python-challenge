@@ -5,7 +5,7 @@ import csv
 from pathlib import Path
 
 # Set path for files
-budget_data_csv=os.path.join("/Users/paolamateo/smu-dal-data-pt-09-2021-u-c/02-Homework/03-Python/Instructions/PyBank/Resources/budget_data.csv")
+budget_data_csv=os.path.join("python-challenge/PyBank/Resources/budget_data.csv")
 
 #Declare variables
 total_months = []

@@ -5,7 +5,7 @@ import csv
 from pathlib import Path 
 
 #Set path for files
-election_data_csv=os.path.join("/Users/paolamateo/Downloads/GitHub/Repository/python-challenge/PyPoll/Resources/election_data.csv")
+election_data_csv=os.path.join("python-challenge/PyPoll/Resources/election_data.csv")
 
 # Declare variables
 total_votes=0
